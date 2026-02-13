@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    # Har 12 soatda yangilanadi
+    # Har 1 soatda yangilanadi
     - cron: '0 * * * *'
-  workflow_dispatch: # Bu tugma paydo bo'lishi uchun shart!
+  workflow_dispatch:
 
 jobs:
   update-readme:
