@@ -1,1 +1,21 @@
+name: Waka Readme
 
+on:
+  schedule:
+    # Har 12 soatda yangilanadi
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Bu tugma paydo bo'lishi uchun shart!
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: false
