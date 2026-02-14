@@ -13,7 +13,7 @@ I am a developer who believes in the power of **daily progress**. For me, coding
 ### My Coding Activity
 This section is automatically updated to show how much time I spend coding and learning new technologies. It's my way of staying accountable to my goal of becoming a top-tier engineer.
 
-[![Muhammadaziz's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mukhammadaziz-x&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Muhammadaziz's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mukhammadaziz-x&layout=compact&theme=radical)
 
 ---
 
