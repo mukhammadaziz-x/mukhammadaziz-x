@@ -24,7 +24,11 @@ This section is automatically updated to show my progress. I believe in the powe
 
 ### Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,git,github,pycharm,vscode,linux,postgres,mysql,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=py,django,html,css,js,postgres,mysql,mongodb,nodejs,express,github,figma,linux,vscode" />
+</p>
+
+<p align="center">
+  <b>Other Tools:</b> Microsoft Word, XAMPP, Beget, Orchids, Cursor, Windsurf
 </p>
 
 ---
