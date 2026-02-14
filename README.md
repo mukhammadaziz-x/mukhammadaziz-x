@@ -1,6 +1,12 @@
 ## Hi there I'm Muhammadaziz Khabibullayev! 👋
 ### Aspiring Software Engineer | Dedicated Learner | Python & AI Enthusiast
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake.svg">
+  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake.svg">
+</picture>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadaziz-x&theme=radical" alt="GitHub Streak" />
 </p>
@@ -8,24 +14,26 @@
 ---
 
 ### My Coding Activity
-This section is automatically updated to show how much time I spend coding and learning new technologies. It's my way of staying accountable to my goal of becoming a top-tier engineer.
+This section is automatically updated to show my progress. I believe in the power of **daily consistency**.
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mukhammadaziz-x&show_icons=true&theme=radical" />
-  <img width="49%" src="https://wakatime.com/share/@mukhammadaziz/b16266f1-5665-4c3e-b112-5e1434f82f2e.svg" />
+  <img src="https://wakatime.com/share/@mukhammadaziz/90175b48-ca20-4f3e-b1b7-f7ecf59a3fa7.svg" alt="Coding Activity Table" />
 </p>
+
 ---
 
 ### Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,git,github,pycharm,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,git,github,pycharm,vscode,linux,postgres,mysql,docker,aws" />
 </p>
+
 ---
 
 ### Professional Achievements & Certifications
-- **AI & Data Science:** Specialization in progress at Mohirdev.
-- **Prompt Engineering:** Certified by Osnova Education.
-- **Soft Skills:** Certified in Public Speaking, Critical Thinking, and Effective Communication.
-- **Law & Ethics:** High Distinction (95/100) in Consumer Rights.
+* **AI & Data Science:** Specialization in progress at Mohirdev.
+* **Prompt Engineering:** Certified by Osnova Education.
+* **Soft Skills:** Certified in Public Speaking, Critical Thinking, and Effective Communication.
+* **Law & Ethics:** High Distinction (95/100) in Consumer Rights.
 
 ---
-*“Success is the sum of small efforts, repeated day-in and day-out.”* **Let's connect:** [mukhammadaziz-x](https://github.com/mukhammadaziz-x)
+*“Success is the sum of small efforts, repeated day-in and day-out.”* **Let's connect:** [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) | [Telegram](https://t.me/YOUR_TELEGRAM) | [GitHub](https://github.com/mukhammadaziz-x)
