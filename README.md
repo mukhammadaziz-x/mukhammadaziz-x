@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mukhammadaziz-x&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadaziz-x&theme=radical" />
-  <img height="100em" src="https://wakatime.com/share/@mukhammadaziz/94e2fd9a-4fe3-4b59-902c-7e6fc3642f8e.svg" />
+  <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mukhammadaziz-x&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadaziz-x&theme=radical" />
+  <img width="32%" src="https://wakatime.com/share/@mukhammadaziz/94e2fd9a-4fe3-4b59-902c-7e6fc3642f8e.svg" />
 </p>
 
 ---
