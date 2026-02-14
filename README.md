@@ -1,14 +1,6 @@
 ## Hi there I'm Muhammadaziz Khabibullayev! 👋
 ### Aspiring Software Engineer | Dedicated Learner | Python & AI Enthusiast
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake.svg">
-    <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake.svg">
-  </picture>
-</p>
-
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr valign="center">
     <td width="25%" align="center">
@@ -61,4 +53,12 @@
 
 <p align="right">
   <img src="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/main/campfire.gif" width="50px">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake.svg">
+    <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake.svg">
+  </picture>
 </p>
