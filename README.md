@@ -14,7 +14,11 @@ I am a developer who believes in the power of **daily progress**. For me, coding
 This section is automatically updated to show how much time I spend coding and learning new technologies. It's my way of staying accountable to my goal of becoming a top-tier engineer.
 
 <p align="center">
-  <img src="https://wakatime.com/share/@mukhammadaziz/b16266f1-5665-4c3e-b112-5e1434f82f2e.svg" alt="WakaTime Coding Activity" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mukhammadaziz-x&layout=compact&langs_count=10&theme=radical&display_format=svg" alt="Muhammadaziz WakaTime Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mukhammadaziz-x&theme=radical&layout=default" alt="Detailed WakaTime Stats" />
 </p>
 
 ---
