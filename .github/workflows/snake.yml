@@ -1,12 +1,12 @@
 name: Snake Animation
 
 on:
-  schedule: # Har 12 soatda avtomatik ishga tushadi
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Qo'lda ishga tushirish tugmasi uchun
+  workflow_dispatch:
 
 permissions:
-  contents: write # Repozitoriyaga rasm yozish uchun maxsus ruxsat
+  contents: write
 
 jobs:
   build:
