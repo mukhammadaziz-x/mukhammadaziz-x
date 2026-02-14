@@ -11,14 +11,14 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr valign="center">
-    <td width="22%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mukhammadaziz-x&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170px" />
+    <td width="25%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mukhammadaziz-x&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="195px" />
     </td>
-    <td width="54%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadaziz-x&theme=radical" height="200px" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadaziz-x&theme=radical" height="210px" />
     </td>
-    <td width="22%">
-      <img src="https://wakatime.com/share/@mukhammadaziz/94e2fd9a-4fe3-4b59-902c-7e6fc3642f8e.svg" height="170px" />
+    <td width="25%" align="center">
+      <img src="https://wakatime.com/share/@mukhammadaziz/94e2fd9a-4fe3-4b59-902c-7e6fc3642f8e.svg" height="195px" />
     </td>
   </tr>
 </table>
