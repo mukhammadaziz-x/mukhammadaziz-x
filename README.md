@@ -1,15 +1,3 @@
----
-
-### My Coding Activity
-This section is automatically updated to show how much time I spend coding and learning new technologies. It's my way of staying accountable to my goal of becoming a top-tier engineer.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mukhammadaziz-x&layout=compact&langs_count=8&theme=radical" alt="Muhammadaziz WakaTime Stats" />
-</p>
-
----
-
-
 ## Hi there I'm Muhammadaziz Khabibullayev! 👋
 ### Aspiring Software Engineer | Dedicated Learner | Python & AI Enthusiast
 
@@ -24,6 +12,10 @@ I am a developer who believes in the power of **daily progress**. For me, coding
 
 ### My Coding Activity
 This section is automatically updated to show how much time I spend coding and learning new technologies. It's my way of staying accountable to my goal of becoming a top-tier engineer.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mukhammadaziz-x&layout=compact&langs_count=8&theme=radical" alt="Muhammadaziz WakaTime Stats" />
+</p>
 
 ---
 
