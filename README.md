@@ -48,7 +48,7 @@
 <a href="https://x.com/muhammadaziz_x" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
 <a href="https://vk.com/muhammadaziz_xabibullayev" target="blank"><img align="center" src="https://img.shields.io/badge/VK-%234680C2.svg?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
 <a href="mailto:muhammadazizxabibullayev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<img src="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/main/campfire.gif" width="45px">
+<img align="center" src="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/main/campfire.gif" width="45px">
 </p>
 
 <p align="right">
