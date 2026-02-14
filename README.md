@@ -15,14 +15,12 @@
   </tr>
 </table>
 
----
 
 ### My Coding Activity
 <p align="center">
   <img src="https://wakatime.com/share/@mukhammadaziz/90175b48-ca20-4f3e-b1b7-f7ecf59a3fa7.svg" alt="Coding Activity Table" />
 </p>
 
----
 
 ### Tech Stack & Tools
 <p align="center">
@@ -33,7 +31,6 @@
   <b>Other Tools:</b> Microsoft Word, XAMPP, Beget, Orchids, Cursor, Windsurf
 </p>
 
----
 
 ### Professional Achievements & Certifications
 * **AI & Data Science:** Specialization in progress at Mohirdev.
@@ -41,7 +38,6 @@
 * **Soft Skills:** Certified in Public Speaking, Critical Thinking, and Effective Communication.
 * **Law & Ethics:** High Distinction (95/100) in Consumer Rights.
 
----
 
 ### Let's Connect
 <p align="center">
@@ -52,7 +48,7 @@
 <a href="https://x.com/muhammadaziz_x" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
 <a href="https://vk.com/muhammadaziz_xabibullayev" target="blank"><img align="center" src="https://img.shields.io/badge/VK-%234680C2.svg?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
 <a href="mailto:muhammadazizxabibullayev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <img src="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/main/campfire.gif" width="45px">
+<img src="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/main/campfire.gif" width="45px">
 </p>
 
 <p align="right">
