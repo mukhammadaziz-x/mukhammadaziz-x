@@ -20,16 +20,16 @@
   <img src="https://wakatime.com/share/@mukhammadaziz/90175b48-ca20-4f3e-b1b7-f7ecf59a3fa7.svg" alt="Coding Activity Table" />
 </p>
 
-### Tech stack & tools
+### Tech stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,html,css,js,postgres,mysql,mongodb,nodejs,express,github,figma,linux,vscode" />
 </p>
 
-### Professional achievements & certifications
+### Professional achievements & Certifications
 * **AI & Data science:** Specialization in progress at Mohirdev.
 * **Prompt engineering:** Certified by Osnova education.
 * **Soft skills:** Certified in public speaking, critical thinking, and effective communication.
-* **Law & ethics:** High distinction (95/100) in Consumer rights.
+* **Law & Ethics:** High distinction (95/100) in Consumer rights.
 
 ### Let's connect
 <p align="center">
