@@ -15,23 +15,23 @@
   </tr>
 </table>
 
-### My Coding Activity
+### My coding activity
 <p align="center">
   <img src="https://wakatime.com/share/@mukhammadaziz/90175b48-ca20-4f3e-b1b7-f7ecf59a3fa7.svg" alt="Coding Activity Table" />
 </p>
 
-### Tech Stack & Tools
+### Tech stack & tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,html,css,js,postgres,mysql,mongodb,nodejs,express,github,figma,linux,vscode" />
 </p>
 
-### Professional Achievements & Certifications
-* **AI & Data Science:** Specialization in progress at Mohirdev.
-* **Prompt Engineering:** Certified by Osnova Education.
-* **Soft Skills:** Certified in Public Speaking, Critical Thinking, and Effective Communication.
-* **Law & Ethics:** High Distinction (95/100) in Consumer Rights.
+### Professional achievements & certifications
+* **AI & Data science:** Specialization in progress at Mohirdev.
+* **Prompt engineering:** Certified by Osnova education.
+* **Soft skills:** Certified in public speaking, critical thinking, and effective communication.
+* **Law & ethics:** High distinction (95/100) in Consumer rights.
 
-### Let's Connect
+### Let's connect
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammadaziz-xabibullayev" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://t.me/muhammadaziz_xabibullayev" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
