@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=mukhammadaziz-x&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
----
+<br/>
 
 ### Github stats:
 <table align="center" border="0" cellpadding="0" cellspacing="0">
