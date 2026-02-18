@@ -6,6 +6,9 @@
 
 ## I'm Backend Developer
 
+### 📊 My GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=mukhammadaziz-x&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr valign="center">
     <td width="25%" align="center">
