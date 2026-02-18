@@ -1,7 +1,7 @@
 **<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>**  **About me**
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=700&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!👋;I'm+Muhammadaziz+Xabibullayev;I'm+Software+Engineer;I'm+Python+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=700&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!👋;I'm+Muhammadaziz+Xabibullayev;I'm+Software+Engineer+|+Python+Developer+from+Uzbekistan;" alt="Typing SVG" />
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mukhammadaziz-x&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   </p>
