@@ -2,13 +2,10 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=700&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!👋;I'm+Muhammadaziz+Xabibullayev;I'm+Software+Engineer;I'm+Python+Backend+Developer" alt="Typing SVG" />
-</h1>
-
-<p align="center">
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mukhammadaziz-x&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
-
-<br/>
+  </p>
+</h1>
 
 ### Github stats:
 <table align="center" border="0" cellpadding="0" cellspacing="0">
