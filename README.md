@@ -1,10 +1,4 @@
-# Hi there! 👋
-
-# I'm Muhammadaziz Xabibullayev <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueWZ3bm92ZzRsc3B0ZzRndm53bm92ZzRsc3B0ZzRndm53JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="50px">
-
-## I'm Software Engineer
-
-## I'm Backend Developer
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there!+👋;I'm+Muhammadaziz+Xabibullayev;I'm+Software+Engineer" alt="Typing SVG" />
 
 ### 📊 My GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=mukhammadaziz-x&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
