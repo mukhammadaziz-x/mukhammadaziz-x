@@ -1,13 +1,11 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueWZ3bm92ZzRsc3B0ZzRndm53bm92ZzRsc3B0ZzRndm53JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZAmN0PWc/WUl9vPNDF9n8X5P71X/giphy.gif" width="35px"> About me
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Muhammadaziz+Xabibullayev;Python+&++Django+Developer;AI+Prompt+Engineer" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Muhammadaziz+Xabibullayev;I'm+Software+Engineer;I'm+Python+Backend+Developer" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=mukhammadaziz-x&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mukhammadaziz-x&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr valign="center">
