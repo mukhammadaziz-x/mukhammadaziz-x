@@ -1,5 +1,10 @@
-## Hi there I'm Muhammadaziz Khabibullayev! 👋
-### Aspiring Software Engineer | Dedicated Learner | Python & AI Enthusiast
+# Hi there! 👋
+
+# I'm Muhammadaziz Xabibullayev <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueWZ3bm92ZzRsc3B0ZzRndm53bm92ZzRsc3B0ZzRndm53JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="50px">
+
+## I'm Software Engineer
+
+## I'm Backend Developer
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr valign="center">
