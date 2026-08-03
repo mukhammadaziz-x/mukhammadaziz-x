@@ -1,26 +1,20 @@
-**<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>**  **About me**
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="40" height="40" valign="middle"/> 
+  <b style="font-size: 20px;">About me</b>
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=700&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!👋;I'm+Muhammadaziz+Xabibullayev;I'm+Software+Engineer;I'm+from+Uzbekistan;" alt="Typing SVG" />
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukhammadaziz-x&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=mukhammadaziz-x&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   </p>
 </h1>
 
 ### Github stats:
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr valign="center">
-    <td width="25%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mukhammadaziz-x&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="195px" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadaziz-x&theme=radical" height="210px" />
-    </td>
-    <td width="25%" align="center">
-      <img src="https://wakatime.com/share/@mukhammadaziz/94e2fd9a-4fe3-4b59-902c-7e6fc3642f8e.svg" height="195px" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukhammadaziz-x&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=mukhammadaziz-x&theme=radical" height="175" />
+</p>
 
 ### My coding activity:
 <p align="center">
@@ -29,7 +23,7 @@
 
 ### Development tools I've learned:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,html,css,js,postgres,mysql,mongodb,nodejs,express,github,figma,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,mysql,mongodb,html,css,js,nodejs,express,github,postman,linux,vscode,pycharm" />
 </p>
 
 ### My achievements & Certifications:
@@ -40,16 +34,16 @@
 
 ### Let's connect:
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammadaziz-xabibullayev" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/muhammadaziz_xabibullayev" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://stackoverflow.com/users/31898858/muhammadaziz-xabibullayev" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" /></a>
-<a href="https://github.com/mukhammadaziz-x" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.youtube.com/@muhammadaziz-xabibullayev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
-<a href="https://medium.com/@muhammadaziz-xabibullayev" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://x.com/muhammadaziz_x" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-<a href="https://www.instagram.com/muhammadaziz.insight/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://vk.com/muhammadaziz_xabibullayev" target="blank"><img align="center" src="https://img.shields.io/badge/VK-%234680C2.svg?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
-<a href="mailto:muhammadazizxabibullayev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/muhammadaziz-xabibullayev" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/muhammadaziz_xabibullayev" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://stackoverflow.com/users/31898858/muhammadaziz-xabibullayev" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" /></a>
+<a href="https://github.com/mukhammadaziz-x" target="blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.youtube.com/@muhammadaziz-xabibullayev" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+<a href="https://medium.com/@muhammadaziz-xabibullayev" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://x.com/muhammadaziz_x" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+<a href="https://www.instagram.com/muhammadaziz.insight/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://vk.com/muhammadaziz_xabibullayev" target="blank"><img src="https://img.shields.io/badge/VK-%234680C2.svg?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
+<a href="mailto:muhammadazizxabibullayev@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <p align="center">
