@@ -45,11 +45,3 @@
 <a href="https://vk.com/muhammadaziz_xabibullayev" target="blank"><img src="https://img.shields.io/badge/VK-%234680C2.svg?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
 <a href="mailto:muhammadazizxabibullayev@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake.svg">
-    <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/mukhammadaziz-x/mukhammadaziz-x/output/github-snake.svg">
-  </picture>
-</p>
