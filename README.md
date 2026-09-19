@@ -16,11 +16,6 @@
   <img src="https://streak-stats.demolab.com/?user=mukhammadaziz-x&theme=radical" height="175" />
 </p>
 
-### My coding activity:
-<p align="center">
-  <img src="https://wakatime.com/share/@mukhammadaziz/90175b48-ca20-4f3e-b1b7-f7ecf59a3fa7.svg" alt="Coding Activity Table" />
-</p>
-
 ### Development tools I've learned:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,mysql,mongodb,html,css,js,nodejs,express,github,postman,linux,vscode,pycharm" />
