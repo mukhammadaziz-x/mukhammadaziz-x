@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=700&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!👋;I'm+Muhammadaziz+Xabibullayev;I'm+Software+Engineer;I'm+from+Uzbekistan;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=700&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!👋;I'm+Muhammadaziz+Khabibullaev;I'm+Software+Developer;I'm+from+Uzbekistan;" alt="Typing SVG" />
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mukhammadaziz-x&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   </p>
