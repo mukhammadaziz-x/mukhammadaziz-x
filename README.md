@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&weight=700&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!👋;I'm+Muhammadaziz+Khabibullaev;I'm+Software+Engineer;I'm+from+Uzbekistan" alt="Hi there! I'm Muhammadaziz Khabibullaev — Software Engineer from Uzbekistan" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=700&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!%F0%9F%91%8B;I%27m+Muhammadaziz+Khabibullaev;I%27m+Software+Engineer;I%27m+from+Uzbekistan;" alt="Hi there! I'm Muhammadaziz Khabibullaev — Software Engineer from Uzbekistan" />
 
 <img src="https://komarev.com/ghpvc/?username=mukhammadaziz-x&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
@@ -22,7 +22,7 @@ I build reliable backend systems — stable architecture, clean APIs and solid d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mukhammadaziz-x&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="175" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mukhammadaziz-x&show_icons=true&theme=radical&count_private=true" height="175" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com/?user=mukhammadaziz-x&theme=radical" height="175" alt="GitHub streak" />
 
 Most of my day-to-day work lives on **[GitLab](https://gitlab.com/mukhammadaziz-x)**:
