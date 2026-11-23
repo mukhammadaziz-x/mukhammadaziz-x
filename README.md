@@ -25,10 +25,6 @@ I build reliable backend systems — stable architecture, clean APIs and solid d
 <img src="https://github-readme-stats.vercel.app/api?username=mukhammadaziz-x&show_icons=true&theme=radical&count_private=true" height="175" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com/?user=mukhammadaziz-x&theme=radical" height="175" alt="GitHub streak" />
 
-Most of my day-to-day work lives on **[GitLab](https://gitlab.com/mukhammadaziz-x)**:
-
-<img src="https://mukhammadaziz-x-5d4aa3.gitlab.io/stats.svg" height="175" alt="GitLab contributions and streaks" />
-
 </div>
 
 ### ⚙️ What I do
